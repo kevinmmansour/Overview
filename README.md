@@ -73,3 +73,27 @@
     </a>
     <span></span>
   </p>
+  
+### 🎖 Stats
+<a href="https://stackexchange.com/users/20374110"><img src="https://stackexchange.com/users/flair/20374110.png" width="208" height="58" alt="profile for Kevin M. Mansour on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Kevin M. Mansour on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+    <span></span>
+
+
+### 🐱‍🏍 Social Platform
+
+<p align="left">
+  <p align="left">
+    <span></span>
+    <a href="https://stackexchange.com/users/20374110/kevin-m-mansour" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/stackexchange.png" alt="Stack Exchange Account" width="40" height="40"/>
+    </a>
+      <a href="https://github.com/kevinmmansour" target="_blank">
+      <img src="https://img.icons8.com/fluent/40/000000/github.png" alt="Github Account" width="40" height="40"/>
+    </a>
+    <span></span>
+    <a href="https://www.linkedin.com/in/kevinmmansour" target="_blank">
+      <img src="https://img.icons8.com/color/40/000000/linkedin.png" alt="LinkedIn Account" width="40" height="40"/>
+    </a>
+      <span></span>
+ 
+  </p>
