@@ -74,11 +74,6 @@
     <span></span>
   </p>
   
-### 🎖 Stats
-<a href="https://stackexchange.com/users/20374110"><img src="https://stackexchange.com/users/flair/20374110.png" width="208" height="58" alt="profile for Kevin M. Mansour on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Kevin M. Mansour on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
-    <span></span>
-
-
 ### 🐱‍🏍 Social Platform
 
 <p align="left">
